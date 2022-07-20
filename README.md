@@ -1,2 +1,2 @@
 # Nonogram
-Little dogelon-related nonogram game
+Little nonogram web app, made as proof-of-concept during a private dev jam 
